@@ -4,6 +4,7 @@ config.py
 #additional files to ignore
 movies_metadata.csv
 ratings.csv
+wikipedia-movies.json
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
